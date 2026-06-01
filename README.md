@@ -25,8 +25,10 @@ O projeto inclui:
 
 # Fonte dos Dados
 
-UCS Satellite Database - Union of Concerned Scientists
-https://www.ucsusa.org/resources/satellite-database
+UCS Satellite Database
+https://www.kaggle.com/datasets/mexwell/ucs-satellite-database
+
+Disponível da mesma forma em: https://www.ucs.org/resources/satellite-database
 
 # Como Executar
 
