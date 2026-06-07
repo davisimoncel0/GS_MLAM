@@ -36,6 +36,7 @@ GS_MLAM/
 | 02a — Tabela discreta | Distribuição de frequências de `ano` (por década) |
 | 02b — Tabela contínua | Distribuição de frequências de `custo_milhoes` (Sturges) |
 | 03a — Gráfico 1 | Barras — Missões por década |
+| 03b — Gráfico 2 | Barras horizontais — Taxa de sucesso por empresa (Top 8) |
 | 04a — Univariada 1 | Estatística descritiva completa de `custo_milhoes` (n=949) |
 | 04b — Univariada 2 | Estatística descritiva completa de `ano` (n=4.324) |
 | 05 — Relatório PDF | Documento técnico consolidado com interpretações e insights |
