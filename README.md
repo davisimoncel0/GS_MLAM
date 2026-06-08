@@ -57,8 +57,7 @@ GS_MLAM/
 
 ```bash
 pip install pandas numpy matplotlib reportlab
-python analise.py          # Gera tabelas + gráficos
-python gerar_relatorio.py  # Gera o PDF
+python analise.py
 ```
 
 ---
