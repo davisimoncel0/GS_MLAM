@@ -57,7 +57,7 @@ GS_MLAM/
 
 ```bash
 pip install pandas numpy matplotlib reportlab
-python analise.py
+python3 analise.py
 ```
 
 ---
